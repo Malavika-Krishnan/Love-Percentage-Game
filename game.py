@@ -4,7 +4,6 @@ import numpy as np
 a = input('Enter the first name: ')
 b = input('Enter the name of the second person: ')
 
-
 c = np.random.randint(1, 100)
 print(f'The love percentage between {a} and {b} is {c}%')
 
