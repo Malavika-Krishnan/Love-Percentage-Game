@@ -1,6 +1,5 @@
 import matplotlib.pyplot as plt
 import numpy as np
-
 a = input('Enter the first name: ')
 b = input('Enter the name of the second person: ')
 
