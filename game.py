@@ -7,7 +7,7 @@ b = input('Enter the name of the second person: ')
 c = np.random.randint(1, 100)
 print(f'The love percentage between {a} and {b} is {c}%')
 
-values = [c, 100 - c] 
+values = [c, 100 - c])
 labels = [f"Love ({c}%)", "Remaining"]
 colors = ['red', 'black']
 
