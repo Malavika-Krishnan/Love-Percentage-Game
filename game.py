@@ -11,7 +11,7 @@ print(f'The love percentage between {a} and {b} is {c}%')
 
 values = [c, 100 - c] 
 labels = [f"Love ({c}%)", "Remaining"]
-colors = ['red', 'lightgray']
+colors = ['red', 'black']
 
 
 plt.figure(figsize=(6, 6))
