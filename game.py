@@ -14,8 +14,7 @@ img = Image.open(r'C:\Users\LENOVO\Downloads\\1.gif')
 
 values = [c, 100 - c]
 labels = [f" Love ({c}%)", "Remaining"]
-colors = ['Red', 'Black']  # Red and Black for contrast
-
+colors = ['Red', 'Black']  
 # Create the figure and axes
 fig, ax = plt.subplots(figsize=(6, 6))
 ax.pie(values, labels=labels, startangle=140, colors=colors,
