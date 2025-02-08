@@ -21,7 +21,7 @@ ax.pie(values, labels=labels, startangle=140, colors=colors,
        wedgeprops={'edgecolor': 'Pink', 'linewidth': 2},
        textprops={'fontsize': 12, 'fontweight': 'bold', 'color': 'Purple'})
 
-# Add an image overlay
+
 ax.imshow(img, extent=[-2, 2, -2, 2], aspect='auto', alpha=0.3)
 
 # Add title with a stylish font
