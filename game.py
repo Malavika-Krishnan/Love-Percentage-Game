@@ -11,7 +11,7 @@ print(f'The love percentage between {a} and {b} is {c}%')
 
 img = Image.open(r'C:\Users\LENOVO\Downloads\\1.gif')
 
-# Love percentage values
+
 values = [c, 100 - c]
 labels = [f" Love ({c}%)", "Remaining"]
 colors = ['Red', 'Black']  # Red and Black for contrast
