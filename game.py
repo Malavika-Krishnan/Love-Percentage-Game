@@ -5,7 +5,6 @@ from PIL import Image
 a = input('Enter the first name: ')
 b = input('Enter the second name: ')
 
-# Generate a random love percentage
 c = np.random.randint(1, 100)
 print(f'The love percentage between {a} and {b} is {c}%')
 
