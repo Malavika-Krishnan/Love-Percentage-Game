@@ -2,7 +2,6 @@ import matplotlib.pyplot as plt
 import numpy as np
 from PIL import Image
 
-# Take input for names
 a = input('Enter the first name: ')
 b = input('Enter the second name: ')
 
