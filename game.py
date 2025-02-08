@@ -8,7 +8,7 @@ b = input('Enter the second name: ')
 c = np.random.randint(1, 100)
 print(f'The love percentage between {a} and {b} is {c}%')
 
-# Load an image (Make sure the path is correct)
+
 img = Image.open(r'C:\Users\LENOVO\Downloads\\1.gif')
 
 # Love percentage values
