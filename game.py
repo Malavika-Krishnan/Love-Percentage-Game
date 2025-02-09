@@ -15,6 +15,5 @@ ax.pie(values, labels=labels, startangle=140, colors=colors,
        wedgeprops={'edgecolor': 'Pink', 'linewidth': 2},
        textprops={'fontsize': 12, 'fontweight': 'bold', 'color': 'Purple'})
 ax.imshow(img, extent=[-2, 2, -2, 2], aspect='auto', alpha=0.3)
-
 plt.title(f" Love Percentage: {a} ❤ {b} ", fontsize=14, fontweight='bold', color='Pink')
 plt.show()
