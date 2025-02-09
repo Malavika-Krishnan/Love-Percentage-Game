@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 from PIL import Image
+
 a = input('Enter the first name: ')
 b = input('Enter the second name: ')
 c = np.random.randint(1, 100)
