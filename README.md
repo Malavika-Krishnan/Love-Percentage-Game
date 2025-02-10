@@ -21,7 +21,7 @@ The HEARTSCORE Game is a fun and interactive Python program that calculates the 
 •	NumPy (for random percentage generation)
 •	PIL (Pillow) (for image handling)
 
-# Installation & Usage
+# Installation & Usage🎯
 
 Prerequisites
 Ensure you have Python installed along with the required dependencies:
