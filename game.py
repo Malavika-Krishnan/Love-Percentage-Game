@@ -14,6 +14,7 @@ img = Image.open('1.gif')
 values = [c, 100 - c]
 labels = [f" Love ({c}%)", "Remaining"]
 colors = ['Red', 'Black']  
+
 fig, ax = plt.subplots(figsize=(6, 6), facecolour='pink')
 ax.pie(values, labels=labels, startangle=140, colors=colors,
        wedgeprops={'edgecolor': 'Pink', 'linewidth': 2},
