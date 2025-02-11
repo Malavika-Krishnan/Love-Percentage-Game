@@ -24,6 +24,7 @@ The HEARTSCORE Game is a fun and interactive Python program that calculates the 
 # Installation & Usage🎯
 
 Prerequisites
+
 Ensure you have Python installed along with the required dependencies:
 pip install matplotlib numpy pillow
 
