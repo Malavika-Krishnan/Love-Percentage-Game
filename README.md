@@ -32,7 +32,7 @@ Running the Game
 1.	Clone or download the script.
 2.	Ensure the 1.gif image is in the same directory.
 3.	Run the script using:
-python g.py
+python ga.py
 
 Future Enhancements
 •	Improve love percentage calculation based on a custom algorithm.
