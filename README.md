@@ -16,6 +16,7 @@ The HEARTSCORE Game is a fun and interactive Python program that calculates the 
 4.	A pie chart visualizes the love percentage with a romantic-themed design.
 
 # Technologies Used⚙️
+
 •	Python
 •	Matplotlib (for pie chart visualization)
 •	NumPy (for random percentage generation)
