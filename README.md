@@ -5,7 +5,7 @@ The HEARTSCORE Game is a fun and interactive Python program that calculates the 
 
 # Features
 •	Input two names to calculate a randomized love percentage.
-•	Generates a colorful pie chart representing the compatibility score
+•	Generates a colorful pie chart representing the compatibility score.
 •	Uses an optional background image for a fun visual effect.
 •	Provides error handling if the image is missing.
 
