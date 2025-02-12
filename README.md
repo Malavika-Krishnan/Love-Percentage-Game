@@ -36,7 +36,9 @@ python game.py
 
 Future Enhancements
 •	Improve love percentage calculation based on a custom algorithm.
+
 •	Add a GUI for a more interactive experience.
+
 •	Implement a web-based version.
 
 
