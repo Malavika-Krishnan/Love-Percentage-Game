@@ -25,8 +25,8 @@ The HEARTSCORE Game is a fun and interactive Python program that calculates the 
 
 Prerequisites
 
-Ensure you have Python installed along with the required dependencies:
-pip install matplotlib numpy pillow
+-Ensure you have Python installed along with the required dependencies:
+-pip install matplotlib numpy pillow
 
 Running the Game
 1.	Clone or download the script.
