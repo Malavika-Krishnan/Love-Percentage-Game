@@ -20,6 +20,7 @@ The HEARTSCORE Game is a fun and interactive Python program that calculates the 
 •	Python
 
 •	Matplotlib (for pie chart visualization)
+
 •	NumPy (for random percentage generation)
 •	PIL (Pillow) (for image handling)
 
